@@ -1,0 +1,13 @@
+@import '../../../node_modules/botframework-webchat/botchat.css';
+
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(17, 142, 224);
+
+.biggie{
+  border: 5px solid $primary-color;
+  position: fixed;
+  bottom:0;
+  right: 0;
+  width: 400px;
+  height: 400px;
+}
